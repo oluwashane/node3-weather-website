@@ -1,2 +1,2 @@
 # Node Weather App
-# About: 
+# About: These app is used for weather predictions
